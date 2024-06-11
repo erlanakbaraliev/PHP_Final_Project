@@ -1,0 +1,16 @@
+[
+    {
+        "name": "asdf",
+        "email": "asdf",
+        "password": "asdf",
+        "password2": "asdf",
+        "type": "registration"
+    },
+    {
+        "name": "qwer",
+        "email": "qwer",
+        "password": "qwer",
+        "password2": "qwer",
+        "type": "registration"
+    }
+]
