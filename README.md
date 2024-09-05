@@ -1,9 +1,3 @@
-Here is the updated `README.md` without the declaration, points, and incomplete tasks:
-
----
-
-# Web Programming Assignment
-
 ### How to Run the Project
 To run this project, follow these steps:
 
@@ -43,5 +37,3 @@ This solution was submitted and created by the student above for the Web Program
 - **Logout:** successful logout.
 
 --- 
-
-This guide is ready to be used for your GitHub project. Let me know if you need further edits!
